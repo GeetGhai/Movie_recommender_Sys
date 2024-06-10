@@ -100,6 +100,7 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 # Get recommendations
 print(recommend('Avatar'))
 ```
+![image](https://github.com/GeetGhai/Movie_recommender_Sys/assets/154088899/ffa6cf33-6da4-46d6-976e-9219252ed12d)
 
 ### Conclusion
 
