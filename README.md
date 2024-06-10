@@ -1,4 +1,5 @@
 ## Movie Recommender System
+![image](https://github.com/GeetGhai/Movie_recommender_Sys/assets/154088899/94b4ff51-be82-404b-a66f-297c80e8b28b)
 
 
 ### Overview
